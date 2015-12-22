@@ -1208,7 +1208,7 @@ pre[class*="language-"] {
 }
 .post__content img {
   display: block;
-  max-width: 126%;
+  max-width: 100%;
   height: auto;
   padding: 1rem 0;
   position: relative;
